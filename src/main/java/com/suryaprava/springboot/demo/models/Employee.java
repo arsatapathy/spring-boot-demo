@@ -1,4 +1,4 @@
-package com.suryaprava.springbootdemo.models;
+package com.suryaprava.springboot.demo.models;
 
 public class Employee {
 
