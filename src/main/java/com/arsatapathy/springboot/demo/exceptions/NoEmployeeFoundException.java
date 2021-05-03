@@ -1,4 +1,4 @@
-package com.suryaprava.springboot.demo.exceptions;
+package com.arsatapathy.springboot.demo.exceptions;
 
 public class NoEmployeeFoundException extends RuntimeException {
 }

@@ -1,8 +1,8 @@
-package com.suryaprava.springboot.demo.controllers;
+package com.arsatapathy.springboot.demo.controllers;
 
-import com.suryaprava.springboot.demo.exceptions.DuplicateEmployeePresentException;
-import com.suryaprava.springboot.demo.exceptions.EmployeeNotFoundException;
-import com.suryaprava.springboot.demo.exceptions.NoEmployeeFoundException;
+import com.arsatapathy.springboot.demo.exceptions.DuplicateEmployeePresentException;
+import com.arsatapathy.springboot.demo.exceptions.EmployeeNotFoundException;
+import com.arsatapathy.springboot.demo.exceptions.NoEmployeeFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
